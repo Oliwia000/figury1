@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import GeneratorFigur from "./GeneratorFigur";  
 
-function Aplikacja() {
+function App() {
   const [rozmiar, ustawRozmiar] = useState(5); // Początkowy rozmiar
   const [figura, ustawFigure] = useState("trojkat"); 
 
