@@ -26,8 +26,7 @@ function Aplikacja() {
           <option value="kolo">Koło</option>
         </select>
       </label>
-
-      {/* Wywołanie GeneratorFigur */}
+  
       <GeneratorFigur rozmiar={rozmiar} figura={figura} />
     </div>
   );
