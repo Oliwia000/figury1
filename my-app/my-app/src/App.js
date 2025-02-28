@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import GeneratorFigur from "./GeneratorFigur";  // Poprawiona ścieżka importu
+import GeneratorFigur from "./GeneratorFigur";  
 
 function Aplikacja() {
   const [rozmiar, ustawRozmiar] = useState(5); // Początkowy rozmiar

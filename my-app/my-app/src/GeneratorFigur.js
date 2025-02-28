@@ -1,6 +1,5 @@
 import React from "react";
 
-// Funkcje generujące figury
 const generujTrojkat = (n) => {
   let wynik = "";
   for (let i = 1; i <= n; i++) {
