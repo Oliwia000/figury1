@@ -3,7 +3,7 @@ import GeneratorFigur from "./GeneratorFigur";
 
 function Aplikacja() {
   const [rozmiar, ustawRozmiar] = useState(5); // Początkowy rozmiar
-  const [figura, ustawFigure] = useState("trojkat"); // Domyślnie trójkąt
+  const [figura, ustawFigure] = useState("trojkat"); 
 
   return (
     <div>
