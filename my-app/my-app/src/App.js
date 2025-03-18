@@ -32,4 +32,4 @@ function App() {
   );
 }
 
-export default Aplikacja;
+export default App;
